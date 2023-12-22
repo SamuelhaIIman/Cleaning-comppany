@@ -1,4 +1,4 @@
-# Cleaning-company
+# Cleaning Company
 
 To operationalize this project, consolidate all files into a singular folder and execute any of the HTML files therein.
 
